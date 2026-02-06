@@ -1,5 +1,7 @@
 # preact-signals-store
 
+[![npm](https://img.shields.io/npm/v/preact-signals-store.svg?logo=npm&logoColor=white)](https://www.npmjs.com/package/preact-signals-store)
+
 A lightweight, type-safe reactive state management library built on `@preact/signals-core`.
 
 ## Installation

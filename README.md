@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![npm](https://img.shields.io/npm/v/preact-signals-store.svg?logo=npm&logoColor=white)](https://www.npmjs.com/package/preact-signals-store)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![pnpm](https://img.shields.io/badge/pnpm-10-F69220.svg?logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![Turborepo](https://img.shields.io/badge/Turborepo-2.5-EF4444.svg?logo=turborepo&logoColor=white)](https://turbo.build/)
@@ -113,7 +115,7 @@ This project uses **pnpm** as the package manager and **Turborepo** for monorepo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/preact-signals-store.git
+git clone https://github.com/OhadC/preact-signals-store.git
 cd preact-signals-store
 
 # Install dependencies

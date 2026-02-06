@@ -1,6 +1,26 @@
 {
     "name": "preact-signals-store",
     "version": "1.0.0",
+    "description": "A lightweight, type-safe reactive state management library built on @preact/signals-core",
+    "keywords": [
+        "preact",
+        "signals",
+        "state-management",
+        "reactive",
+        "store",
+        "typescript",
+        "react"
+    ],
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OhadC/preact-signals-store.git"
+    },
+    "homepage": "https://github.com/OhadC/preact-signals-store#readme",
+    "bugs": {
+        "url": "https://github.com/OhadC/preact-signals-store/issues"
+    },
     "type": "module",
     "main": "dist/index.cjs",
     "module": "dist/index.mjs",
