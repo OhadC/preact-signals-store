@@ -1,0 +1,22 @@
+{
+    "name": "preact-signals-store-monorepo",
+    "version": "1.0.0",
+    "private": true,
+    "description": "A pnpm monorepo for preact-signals-store",
+    "scripts": {
+        "build": "turbo run build",
+        "test": "turbo run test",
+        "lint": "turbo run lint",
+        "typecheck": "turbo run typecheck"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.28.2",
+    "devDependencies": {
+        "@ianvs/prettier-plugin-sort-imports": "catalog:",
+        "turbo": "catalog:",
+        "typescript": "catalog:",
+        "vitest": "catalog:"
+    }
+}

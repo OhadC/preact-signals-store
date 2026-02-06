@@ -1,0 +1,14 @@
+{
+    "name": "test-core",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+        "test": "vitest run"
+    },
+    "devDependencies": {
+        "@preact/signals-core": "catalog:",
+        "preact-signals-store": "workspace:*",
+        "typescript": "catalog:",
+        "vitest": "catalog:"
+    }
+}

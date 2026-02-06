@@ -1,0 +1,26 @@
+packages:
+    - "packages/*"
+
+catalog:
+    # Build tools
+    tsdown: ^0.20.3
+    typescript: ^5.8.0
+    turbo: ^2.5.0
+
+    # Testing
+    vitest: ^4.0.18
+
+    # @preact/signals
+    "@preact/signals-core": ^1.8.0
+    "@preact/signals": ^2.7.0
+    "@preact/signals-react": ^3.8.0
+
+    # Preact/React ecosystem
+    preact: ^10.25.0
+    react: ^19.2.4
+    react-dom: ^19.2.4
+    "@types/react": ^19.2.13
+    "@types/react-dom": ^19.2.3
+
+    # Formatting
+    "@ianvs/prettier-plugin-sort-imports": ^4.7.1

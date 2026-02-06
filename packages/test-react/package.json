@@ -1,0 +1,18 @@
+{
+    "name": "test-react",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+        "test": "vitest run"
+    },
+    "devDependencies": {
+        "@preact/signals-react": "catalog:",
+        "@types/react": "catalog:",
+        "@types/react-dom": "catalog:",
+        "preact-signals-store": "workspace:*",
+        "react": "catalog:",
+        "react-dom": "catalog:",
+        "typescript": "catalog:",
+        "vitest": "catalog:"
+    }
+}

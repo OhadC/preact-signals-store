@@ -1,0 +1,35 @@
+{
+    "name": "preact-signals-store",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "dist/index.cjs",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.mts",
+    "exports": {
+        ".": {
+            "types": {
+                "import": "./dist/index.d.mts",
+                "require": "./dist/index.d.cts"
+            },
+            "import": "./dist/index.mjs",
+            "require": "./dist/index.cjs"
+        }
+    },
+    "scripts": {
+        "build": "tsdown",
+        "test": "vitest run",
+        "typecheck": "tsc --noEmit"
+    },
+    "peerDependencies": {
+        "@preact/signals-core": "^1.0.0"
+    },
+    "devDependencies": {
+        "@preact/signals-core": "catalog:",
+        "tsdown": "catalog:",
+        "typescript": "catalog:",
+        "vitest": "catalog:"
+    },
+    "files": [
+        "dist"
+    ]
+}

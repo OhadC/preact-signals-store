@@ -1,0 +1,15 @@
+{
+    "name": "test-preact",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+        "test": "vitest run"
+    },
+    "devDependencies": {
+        "@preact/signals": "catalog:",
+        "preact": "catalog:",
+        "preact-signals-store": "workspace:*",
+        "typescript": "catalog:",
+        "vitest": "catalog:"
+    }
+}
