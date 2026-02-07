@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-02-07
+
 ### Added
 
 - `SignalStoreComputes<TStore>` utility type to extract computes type from a store
@@ -33,5 +35,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Comprehensive test suite with Vitest
 - Monorepo structure with pnpm workspaces and Turborepo
 
-[Unreleased]: https://github.com/OhadC/preact-signals-store/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/OhadC/preact-signals-store/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/OhadC/preact-signals-store/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/OhadC/preact-signals-store/releases/tag/v1.0.0

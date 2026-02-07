@@ -1,6 +1,6 @@
 {
     "name": "preact-signals-store",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A lightweight, type-safe reactive state management library built on @preact/signals-core",
     "keywords": [
         "preact",
