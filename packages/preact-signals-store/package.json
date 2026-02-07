@@ -15,7 +15,8 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/OhadC/preact-signals-store.git"
+        "url": "git+https://github.com/OhadC/preact-signals-store.git",
+        "directory": "packages/preact-signals-store"
     },
     "homepage": "https://github.com/OhadC/preact-signals-store#readme",
     "bugs": {
