@@ -1,6 +1,5 @@
 {
     "name": "preact-signals-store-monorepo",
-    "version": "1.0.2",
     "private": true,
     "description": "A pnpm monorepo for preact-signals-store",
     "scripts": {
