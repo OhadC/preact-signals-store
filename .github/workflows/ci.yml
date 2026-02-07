@@ -69,5 +69,3 @@ jobs:
 
             - name: Publish to npm
               run: pnpm --filter preact-signals-store publish --no-git-checks
-              env:
-                  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
