@@ -89,6 +89,15 @@ const store = createSignalStore({...});
 type Actions = SignalStoreActions<typeof store>;
 ```
 
+#### `SignalStoreComputes<TStore>`
+
+Extracts the computes type from a `SignalStore`.
+
+```typescript
+const store = createSignalStore({...});
+type Computes = SignalStoreComputes<typeof store>;
+```
+
 ## Usage Examples
 
 ### Basic Counter Store
